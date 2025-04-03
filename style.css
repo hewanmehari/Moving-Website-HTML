@@ -106,17 +106,17 @@ img[alt="movingbox"] {
    padding: 35%;
     border:solid 10px blue;
     top:10%;
+}
+.helping{
+    display: flex;
 
 }
+
 .definition{
-    /* margin-left:35px ;
-    display: flex;
-    gap: 60%;  */
+   
     font-size: 20px;
 }
-.emptyborder{
-    /* font-size: 40px; */
-}
+
 .year{
     display: flex;
      font-size: 40px;
@@ -127,9 +127,7 @@ img[alt="movingbox"] {
     font-family: 'poppins';
 
 }
-.riad2007{
 
-}
 .logo{
         margin-top: 5%;
         display: flex;
@@ -164,12 +162,8 @@ img[alt="movingbox"] {
 position: relative;
 
 }
-.transport{
 
-}
-.insurance{
 
-}
 #packbox img {
     font-size: 20px;
 }
@@ -186,6 +180,7 @@ position: relative;
 }
 .helping{
     display: flex;
+
 }
 .click{
 
@@ -285,24 +280,16 @@ i {
    margin-bottom: 3%;
 
 }
-.image{
-
-}
 .video img {
     height: 90vh;
     width: 99%;
     display: flex;
 }
-.imageplay{
 
-}
-.icon{
+.watch{
     position: relative;
     overflow: visible;
     margin-top: -3%;
-
-}
-.booking{
 
 }
 .sub{
@@ -339,12 +326,7 @@ i {
     margin-top: 20px;
     color: white;
 }
-#from{
 
-}
-#homesize{
-
-}
 .to{
     display: flex;
     gap: 20px;
